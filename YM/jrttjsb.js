@@ -156,7 +156,7 @@ async function RunMultiUser() {
             await QueryWalkInfo()
             await DoneEat()
             
-            for(let adId of adIdList) await ExcitationAd(adId)
+            //for(let adId of adIdList) await ExcitationAd(adId)
             //console.log(validList)
             
         }
